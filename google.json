@@ -6,8 +6,6 @@
       "properties": {
         "letter": "G",
         "color": "blue",
-        "rank": "1",
-        "ascii": "71"
       },
       "geometry": {
         "type": "Polygon",
